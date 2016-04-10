@@ -17,7 +17,6 @@ ADD core.conf /tmp/core.conf
 WORKDIR /home/deluge
 
 # Expose ports
-EXPOSE 80
 EXPOSE 8112
 EXPOSE 58846
 EXPOSE 58847
